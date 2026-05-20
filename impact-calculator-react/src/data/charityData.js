@@ -10,7 +10,7 @@ export const CHARITIES = [
     id: "MC",
     name: "Malaria Consortium",
     costPerOutputUSD: 7,
-    costPerDeathAvertedUSD: 4500,
+    costPerDeathAvertedUSD: 4000,
     logo: { src: mcLogo, width: 210 },
     description: "",
     unitLabel: "Children protected from malaria for a year with SMC",
@@ -23,7 +23,7 @@ export const CHARITIES = [
       },
       {
         heading: "Cost-effectiveness",
-        text: "About $7 to protect a child from malaria. In 2021-2023, we directed funding to the Malaria Consortium to support this program at an estimated average cost-effectiveness of $4,500 per life saved.",
+        text: "About $7 to protect a child from malaria. In 2022-2024, we directed funding to the Malaria Consortium to support this program at an estimated average cost-effectiveness of $4,000 per life saved.",
       },
       {
         heading: "Evidence of impact",
@@ -34,7 +34,7 @@ export const CHARITIES = [
   {
     id: "AMF",
     name: "Against Malaria Foundation",
-    costPerOutputUSD: 5,
+    costPerOutputUSD: 6,
     costPerDeathAvertedUSD: 5500,
     logo: { src: amfLogo, width: 106 },
     description: "",
@@ -48,7 +48,7 @@ export const CHARITIES = [
       },
       {
         heading: "Cost-effectiveness",
-        text: "About $5 to provide one net. In 2021-2023, we directed funding to the Against Malaria Foundation to support this program at an estimated average cost-effectiveness of $5,500 per life saved",
+        text: "About $5 to provide one net. In 2022-2024, we directed funding to the Against Malaria Foundation to support this program at an estimated average cost-effectiveness of $5,500 per life saved",
       },
       {
         heading: "Evidence of impact",
@@ -59,7 +59,7 @@ export const CHARITIES = [
   {
     id: "NI",
     name: "New Incentives",
-    costPerOutputUSD: 148,
+    costPerOutputUSD: 146,
     costPerDeathAvertedUSD: 4500,
     logo: { src: niLogo, width: 230 },
     description: "",
@@ -73,7 +73,7 @@ export const CHARITIES = [
       },
       {
         heading: "Cost-effectiveness",
-        text: "About $148 to vaccinate an infant. In 2021-2023, we directed funding to New Incentives to support this program at an estimated average cost-effectiveness of $4,500 per life saved",
+        text: "About $146 to vaccinate an infant. In 2022-2024, we directed funding to New Incentives to support this program at an estimated average cost-effectiveness of $4,500 per life saved",
       },
       {
         heading: "Evidence of impact",
@@ -98,7 +98,7 @@ export const CHARITIES = [
       },
       {
         heading: "Cost-effectiveness",
-        text: "About $2 to provide vitamin A supplements to a child for one year. In 2021-2023, we directed funding to Helen Keller Intl to support this program at an estimated average cost-effectiveness of $3,500 per life saved.",
+        text: "About $2 to provide vitamin A supplements to a child for one year. In 2022-2024, we directed funding to Helen Keller Intl to support this program at an estimated average cost-effectiveness of $3,500 per life saved.",
       },
       {
         heading: "Evidence of impact",
